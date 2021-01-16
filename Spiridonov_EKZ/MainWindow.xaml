@@ -7,6 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox x:Name="tbxDay" HorizontalAlignment="Left" Height="23" Margin="31,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxMonth" HorizontalAlignment="Left" Height="23" Margin="199,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxYear" HorizontalAlignment="Left" Height="23" Margin="388,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="День" HorizontalAlignment="Left" Margin="70,70,0,0" VerticalAlignment="Top"/>
+        <Label Content="Месяц" HorizontalAlignment="Left" Margin="233,70,0,0" VerticalAlignment="Top"/>
+        <Label Content="Год" HorizontalAlignment="Left" Margin="429,70,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblOutputDay" Content="Label" HorizontalAlignment="Left" Margin="70,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblOutputMonth" Content="Label" HorizontalAlignment="Left" Margin="241,175,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblOutputYear" Content="Label" HorizontalAlignment="Left" Margin="429,175,0,0" VerticalAlignment="Top"/>
+        <Label Content="Текущая дата" HorizontalAlignment="Left" Margin="583,175,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnEditDate" Content="Изменить" HorizontalAlignment="Left" Margin="583,95,0,0" VerticalAlignment="Top" Width="75" Click="btnEditDate_Click"/>
+        <TextBox x:Name="tbxDayPlus" HorizontalAlignment="Left" Height="23" Margin="31,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxMonthPlus" HorizontalAlignment="Left" Height="23" Margin="199,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxYearPlus" HorizontalAlignment="Left" Height="23" Margin="388,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnEditDatePlus" Content="Изменить на" HorizontalAlignment="Left" Margin="583,137,0,0" VerticalAlignment="Top" Width="75" Click="btnEditDatePlus_Click" />
+
     </Grid>
 </Window>

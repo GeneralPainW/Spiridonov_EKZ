@@ -1,0 +1,15 @@
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\bin\Debug\Spiridonov_EKZ.exe.config
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\bin\Debug\Spiridonov_EKZ.exe
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\bin\Debug\Spiridonov_EKZ.pdb
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\MainWindow.g.cs
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\App.g.cs
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ_MarkupCompile.cache
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ_MarkupCompile.lref
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\MainWindow.baml
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.g.resources
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.Properties.Resources.resources
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.csproj.GenerateResource.cache
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.csproj.CoreCompileInputs.cache
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.exe
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.pdb
+F:\Study\University\C#\Spiridonov_EKZ\Spiridonov_EKZ\obj\Debug\Spiridonov_EKZ.csprojAssemblyReference.cache
